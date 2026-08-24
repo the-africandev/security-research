@@ -4,9 +4,10 @@
 |---|---|
 | **Engagement** | CertiK Hunt — "Billion Dollar AI Auditor" Challenge (public, ranked) |
 | **Date** | 2026-08-05 → 2026-08-19 |
-| **Result** | **5th of 19** · 25 incidents claimed · **$162,807,480** in verified loss value scored |
+| **Result** | **5th of 22** · 25 incidents claimed · **$162,807,480** in verified loss value scored |
 | **Nature of work** | Recovery and root-cause analysis of *already-public historical exploits* — not discovery of new vulnerabilities |
-| **Leaderboard** | [hunt.certik.com](https://hunt.certik.com/explore/challenges/ai-auditor-1b) |
+| **Field** | 22 researchers · 226 verified claims · $4.36B in total loss value recovered community-wide |
+| **Leaderboard** | [hunt.certik.com](https://hunt.certik.com/explore/challenges/ai-auditor-1b) — results published 2026-08 |
 
 > **Scoring note:** the figure above is the total USD lost in the incidents claimed — capped at $50M per incident and decayed by submission position. It is a scoreboard metric, not earnings; prizes were tool credits.
 

@@ -30,7 +30,7 @@ _(Update these counts as the table grows — recruiters read this line first.)_
 
 | Date | Event | Result | Writeups |
 | --------- | ------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------ |
-| _2026-08_ | CertiK Hunt — "Billion Dollar AI Auditor" Challenge | **5th of 19** · 25 incidents claimed · $162.8M loss value scored | [Analyses](independent/2026-08-certik-ai-auditor-challenge/README.md) |
+| _2026-08_ | CertiK Hunt — "Billion Dollar AI Auditor" Challenge | **5th of 22** · 25 incidents claimed · $162.8M loss value scored | [Analyses](independent/2026-08-certik-ai-auditor-challenge/README.md) |
 
 Historical-incident **recovery and root-cause analysis** — reconstructing exploited contracts across patched
 proxies, reverted repositories, a decommissioned block explorer, and a chain that publishes no source at all.
