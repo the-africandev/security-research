@@ -12,17 +12,18 @@ This repository is a running record of my audit contest findings, bug bounty sub
 
 | Date      | Protocol           | Platform                     | Severity   | Status                 | Report                                                        |
 | --------- | ------------------ | ---------------------------- | ---------- | ---------------------- | ------------------------------------------------------------- |
+| _2026-06_ | TipRun             | HackenProof (audit contest)  | Critical   | Resolved               | [Writeup](contests/2026-06-tiprun/F-003-naked-short-insolvency.md) |
+| _2026-06_ | TipRun             | HackenProof (audit contest)  | High       | Resolved               | [Writeup](contests/2026-06-tiprun/F-001-admin-permission-escalation.md) |
 | _2026-06_ | 0xMarkets / Cartha | HackenProof (audit contest)  | High       | Confirmed by team      | [Writeup](contests/2026-06-0xmarkets-cartha/README.md)        |
 | _2026-04_ | PasswordStore      | Practice (Cyfrin)            | High · Med | —                      | [PDF](practice/2026-04-25-password-store-report.pdf)          |
 
 <!--
 Add newest findings at the TOP. Suggested Status values:
-Confirmed · Acknowledged · Fixed · Duplicate · Disputed · Rewarded ($X)
+Confirmed · Acknowledged · Fixed · Resolved · Duplicate · Disputed
 Keep severities honest — inflated severities are the fastest way to lose credibility.
 -->
 
-**Summary:** _1 confirmed production finding — 1 High (team-validated). Plus practice exercises._
-_(Update these counts as the table grows — recruiters read this line first.)_
+**Summary:** _3 confirmed production findings — 1 Critical, 2 High, all triage-validated with runnable PoCs. Plus practice exercises._
 
 ---
 
