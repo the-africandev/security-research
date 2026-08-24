@@ -3,7 +3,8 @@
 Smart contract security research by **[@the-africandev](https://github.com/the-africandev)**.
 This repository is a running record of my audit contest findings, bug bounty submissions, and independent security research.
 
-> Focus: Solidity / EVM smart contract security — DeFi, prediction markets, and protocol logic.
+> Focus: Smart contract security — DeFi, prediction markets, and protocol logic.
+> Primarily Solidity / EVM, with incident-analysis work across Move (Aptos), Solana and Hedera.
 
 ---
 
@@ -22,6 +23,20 @@ Keep severities honest — inflated severities are the fastest way to lose credi
 
 **Summary:** _1 confirmed production finding — 1 High (team-validated). Plus practice exercises._
 _(Update these counts as the table grows — recruiters read this line first.)_
+
+---
+
+## 🏆 Competitions & Challenges
+
+| Date | Event | Result | Writeups |
+| --------- | ------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------ |
+| _2026-08_ | CertiK Hunt — "Billion Dollar AI Auditor" Challenge | **5th of 19** · 25 incidents claimed · $162.8M loss value scored | [Analyses](independent/2026-08-certik-ai-auditor-challenge/README.md) |
+
+Historical-incident **recovery and root-cause analysis** — reconstructing exploited contracts across patched
+proxies, reverted repositories, a decommissioned block explorer, and a chain that publishes no source at all.
+This is analysis of already-public exploits, not discovery of new vulnerabilities.
+
+Methodology writeup: [Recovering the Pre-Incident Contract](independent/2026-08-certik-ai-auditor-challenge/recovering-pre-incident-contracts.md).
 
 ---
 
